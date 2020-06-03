@@ -495,3 +495,15 @@ input.input100 {
   /*---------------------------------------------*/
 
 }
+
+
+.social-icon {
+  width: 64px;
+  height: 64px;
+  display: inline-block;
+  margin: 24px 16px;
+}
+
+.social-icon img{
+
+}
